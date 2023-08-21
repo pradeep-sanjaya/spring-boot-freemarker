@@ -1,4 +1,4 @@
-package com.cake.springbootvelocity;
+package com.cake.springbootfreemarker;
 
 import org.springframework.boot.SpringApplication;
 

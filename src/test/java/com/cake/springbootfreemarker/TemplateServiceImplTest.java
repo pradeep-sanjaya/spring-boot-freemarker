@@ -1,7 +1,7 @@
-package com.cake.springbootvelocity;
+package com.cake.springbootfreemarker;
 
-import com.cake.springbootvelocity.service.TemplateService;
-import com.cake.springbootvelocity.service.impl.TemplateServiceImpl;
+import com.cake.springbootfreemarker.service.TemplateService;
+import com.cake.springbootfreemarker.service.impl.TemplateServiceImpl;
 import freemarker.template.TemplateException;
 import org.junit.jupiter.api.Test;
 

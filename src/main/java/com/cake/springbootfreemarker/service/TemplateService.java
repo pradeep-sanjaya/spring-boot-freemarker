@@ -1,4 +1,4 @@
-package com.cake.springbootvelocity.service;
+package com.cake.springbootfreemarker.service;
 
 import freemarker.template.TemplateException;
 

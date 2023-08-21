@@ -1,6 +1,6 @@
-package com.cake.springbootvelocity.service.impl;
+package com.cake.springbootfreemarker.service.impl;
 
-import com.cake.springbootvelocity.service.TemplateService;
+import com.cake.springbootfreemarker.service.TemplateService;
 import freemarker.cache.StringTemplateLoader;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
